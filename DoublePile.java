@@ -1,4 +1,3 @@
-Package Java;
 public class DoublePile {
     private int[] stack;
     private int size1;
