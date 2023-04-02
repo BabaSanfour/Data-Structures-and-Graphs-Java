@@ -1,5 +1,3 @@
-package IFT2015;
-
 public class HeapTest {
     public static void main(String[] args) {
         heap h = new heap();
