@@ -1,5 +1,3 @@
-package IFT2015;
-
 public class SortedPriorityQueue {
 
 
